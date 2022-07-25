@@ -1,0 +1,61 @@
+header {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    background-image: radial-gradient(circle at 25.99% 33.19%, #6e7821 0, #5f7423 10%, #4f6d25 20%, #3e6526 30%, #2d5b25 40%, #1c4f24 50%, #094322 60%, #00391f 70%, #00301d 80%, #00291c 90%, #00231a 100%);
+}
+#menu {
+    font-size: xx-large;
+    border-radius: 10px;
+    background-image: radial-gradient(circle at 84.53% 50%, #647e71 0, #627e74 3.57%, #607e77 7.14%, #5e7e7a 10.71%, #5d7e7d 14.29%, #5c7e80 17.86%, #5c7e83 21.43%, #5d7d85 25%, #5e7d88 28.57%, #607c8a 32.14%, #627c8b 35.71%, #657b8c 39.29%, #697a8d 42.86%, #6c798d 46.43%, #70788d 50%, #74778c 53.57%, #78768b 57.14%, #7b758a 60.71%, #7f7488 64.29%, #827386 67.86%, #857284 71.43%, #887281 75%, #8a717e 78.57%, #8c717b 82.14%, #8d7178 85.71%, #8e7175 89.29%, #8f7172 92.86%, #8f716f 96.43%, #8e726d 100%);
+    
+}
+#menu ul li {
+    display: block;
+    float: left;
+    border: 5px solid   ;
+    background-color: rgb(0, 0, 0) ;
+    border-radius: 5px 50px;
+
+}
+#menu ul li a{
+    text-decoration: none ;
+    color: white ;
+    border-radius: 7px;
+}
+
+#imagen{
+    max-width: 100%;
+    height: auto;
+    text-align: auto;
+}
+
+
+#imagen1{
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px 20px;
+}
+
+
+#imagen3{
+    text-align: right;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 4px; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: radial-gradient(circle at 25.99% 33.19%, #6e7821 0, #5f7423 10%, #4f6d25 20%, #3e6526 30%, #2d5b25 40%, #1c4f24 50%, #094322 60%, #00391f 70%, #00301d 80%, #00291c 90%, #00231a 100%);
+}
+
+body{
+    background-image: radial-gradient(circle at 33.19% 25.99%, #ffffff 0, #ffffff 25%, #ffffff 50%, #e3efeb 75%, #cce0d8 100%);
+}
+
+
